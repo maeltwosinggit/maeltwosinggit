@@ -69,7 +69,8 @@ As an Electrical Engineer with two years of experience, I transitioned into the 
 </p>
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maeltwosinggit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=maeltwosinggit&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maeltwosinggit&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maeltwosinggit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
